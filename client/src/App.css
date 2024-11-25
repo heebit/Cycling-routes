@@ -1,0 +1,22 @@
+#root {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 0.644782913165266) 0%,
+    rgba(84, 192, 161, 0.7120098039215687) 46%,
+    rgba(253, 187, 45, 0.7120098039215687) 100%
+  );
+  min-height: 100vh;
+}
+
+html {
+  height: 100%;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color: #1e1f23;
+  color: "#f8f9fb";
+}
